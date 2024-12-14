@@ -1,4 +1,4 @@
-package com.optimagrowth;
+package com.optimagrowth.license;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class LicenseServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LicenseServiceApplication.class, args);
 	}
-
 }
